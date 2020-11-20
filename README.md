@@ -29,3 +29,5 @@ Como temos um player 2 inserido no projeto, para executar basta executar os coma
 ## O Resultado do WIT + Maratona Day
 
 Para minha surpresa, eu venci o WIT + Maratona Day! Segue abaixo o print do ranking da competição 😊
+
+![](https://github.com/Estelamb/WITMaratonaDay/blob/main/imagens/ranking.jpeg)
