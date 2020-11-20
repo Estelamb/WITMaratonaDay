@@ -20,7 +20,7 @@ como ambas retornam o número de peças que serão viradas caso se use essa estr
 Como temos um player 2 inserido no projeto, para executar basta executar os comandos
 
 ```
-
+gcc board.c pos.c logic.c players.c aux.c player1.c player2.c play.c
 ./a.out
 ```
 
